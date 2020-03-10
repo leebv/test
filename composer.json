@@ -1,0 +1,16 @@
+{
+    "name": "vendor/test-project",
+    "description": "test_project.",
+    "authors": [
+        {
+            "name": "kvai-djinn",
+            "email": "your@email.here"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "KvaiDjinn\\":"packages/kvai-djinn"
+        }
+    },
+    "require": {}
+}

@@ -1,5 +1,5 @@
 <?php
-namespace kvai-djinn\models;
+namespace KvaiDjinn;
 
 use Yii;
 
